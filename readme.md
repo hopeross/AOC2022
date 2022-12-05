@@ -9,3 +9,5 @@ Day 2: code's ugly as hell and could use a refactor but it got the right answer
 Day 3: hey I kinda like my solution for today
 
 Day 4: a bit of a struggle honestly and it's back to being ugly as hell, but I'm keeping up with the developers at the office so I'm happy.  
+
+Day 5: zomg don't look tis a hot steaming mess.  I got the answers but wow was that no bueno.  
