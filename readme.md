@@ -11,3 +11,5 @@ Day 3: hey I kinda like my solution for today
 Day 4: a bit of a struggle honestly and it's back to being ugly as hell, but I'm keeping up with the developers at the office so I'm happy.  
 
 Day 5: zomg don't look tis a hot steaming mess.  I got the answers but wow was that no bueno.  
+
+Day 6: flew through part 1, got stumped on part 2 weirdly.  All the testing was fine but when I tried to run my actual dataset it wouldn't come up with an answer.
